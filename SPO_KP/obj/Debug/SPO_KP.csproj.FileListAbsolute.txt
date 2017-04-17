@@ -1,0 +1,62 @@
+c:\users\iseeyousuka\documents\visual studio 2013\Projects\SPO_KP\SPO_KP\obj\Debug\SPO_KP.csprojResolveAssemblyReference.cache
+c:\users\iseeyousuka\documents\visual studio 2013\Projects\SPO_KP\SPO_KP\obj\Debug\SPO_KP.Form1.resources
+c:\users\iseeyousuka\documents\visual studio 2013\Projects\SPO_KP\SPO_KP\obj\Debug\SPO_KP.Properties.Resources.resources
+c:\users\iseeyousuka\documents\visual studio 2013\Projects\SPO_KP\SPO_KP\obj\Debug\SPO_KP.csproj.GenerateResource.Cache
+c:\users\iseeyousuka\documents\visual studio 2013\Projects\SPO_KP\SPO_KP\bin\Debug\SPO_KP.exe
+c:\users\iseeyousuka\documents\visual studio 2013\Projects\SPO_KP\SPO_KP\bin\Debug\SPO_KP.pdb
+c:\users\iseeyousuka\documents\visual studio 2013\Projects\SPO_KP\SPO_KP\obj\Debug\SPO_KP.exe
+c:\users\iseeyousuka\documents\visual studio 2013\Projects\SPO_KP\SPO_KP\obj\Debug\SPO_KP.pdb
+D:\VS repository\SPO_KP\SPO_KP\obj\Debug\SPO_KP.exe
+D:\VS repository\SPO_KP\SPO_KP\obj\Debug\SPO_KP.pdb
+D:\VS repository\SPO_KP\SPO_KP\obj\Debug\SPO_KP.csprojResolveAssemblyReference.cache
+D:\VS repository\SPO_KP\SPO_KP\obj\Debug\SPO_KP.Form1.resources
+D:\VS repository\SPO_KP\SPO_KP\obj\Debug\SPO_KP.Properties.Resources.resources
+D:\VS repository\SPO_KP\SPO_KP\obj\Debug\SPO_KP.csproj.GenerateResource.Cache
+D:\VS repository\SPO_KP\SPO_KP\bin\Debug\SPO_KP.exe
+D:\VS repository\SPO_KP\SPO_KP\bin\Debug\SPO_KP.pdb
+C:\Users\IseeYouSuka\Dropbox\Visual studio proj\мое\SPO_KP\obj\Debug\SPO_KP.exe
+C:\Users\IseeYouSuka\Dropbox\Visual studio proj\мое\SPO_KP\obj\Debug\SPO_KP.pdb
+D:\VS repository\Program\SPO_KP\obj\Debug\SPO_KP.exe
+D:\VS repository\Program\SPO_KP\obj\Debug\SPO_KP.pdb
+D:\VS repository\Program\SPO_KP\bin\Debug\SPO_KP.exe
+D:\VS repository\Program\SPO_KP\bin\Debug\SPO_KP.pdb
+D:\VS repository\Program\SPO_KP\obj\Debug\SPO_KP.csprojResolveAssemblyReference.cache
+D:\VS repository\Program\SPO_KP\obj\Debug\SPO_KP.Form1.resources
+D:\VS repository\Program\SPO_KP\obj\Debug\SPO_KP.Properties.Resources.resources
+D:\VS repository\Program\SPO_KP\obj\Debug\SPO_KP.csproj.GenerateResource.Cache
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\obj\Debug\SPO_KP.exe
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\obj\Debug\SPO_KP.pdb
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\bin\Debug\SPO_KP.exe
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\bin\Debug\SPO_KP.pdb
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\obj\Debug\SPO_KP.csprojResolveAssemblyReference.cache
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\obj\Debug\SPO_KP.Form1.resources
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\obj\Debug\SPO_KP.Properties.Resources.resources
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\obj\Debug\SPO_KP.csproj.GenerateResource.Cache
+C:\Users\whsha\Dropbox\Spo 1.1\Program\SPO_KP\obj\Debug\SPO_KP.exe
+C:\Users\whsha\Dropbox\Spo 1.1\Program\SPO_KP\obj\Debug\SPO_KP.pdb
+F:\SPO\Spo 1.1\Program\SPO_KP\obj\Debug\SPO_KP.exe
+F:\SPO\Spo 1.1\Program\SPO_KP\obj\Debug\SPO_KP.pdb
+F:\SPO\Spo 1.1\Program\SPO_KP\bin\Debug\SPO_KP.exe
+F:\SPO\Spo 1.1\Program\SPO_KP\bin\Debug\SPO_KP.pdb
+F:\SPO\Spo 1.1\Program\SPO_KP\obj\Debug\SPO_KP.csprojResolveAssemblyReference.cache
+F:\SPO\Spo 1.1\Program\SPO_KP\obj\Debug\SPO_KP.Form1.resources
+F:\SPO\Spo 1.1\Program\SPO_KP\obj\Debug\SPO_KP.Properties.Resources.resources
+F:\SPO\Spo 1.1\Program\SPO_KP\obj\Debug\SPO_KP.csproj.GenerateResource.Cache
+F:\Desktop\возможно диплом\Program\SPO_KP\bin\Debug\SPO_KP.exe.config
+F:\Desktop\возможно диплом\Program\SPO_KP\obj\Debug\SPO_KP.exe
+F:\Desktop\возможно диплом\Program\SPO_KP\obj\Debug\SPO_KP.pdb
+F:\Desktop\возможно диплом\Program\SPO_KP\bin\Debug\SPO_KP.exe
+F:\Desktop\возможно диплом\Program\SPO_KP\bin\Debug\SPO_KP.pdb
+F:\Desktop\возможно диплом\Program\SPO_KP\obj\Debug\SPO_KP.csprojResolveAssemblyReference.cache
+F:\Desktop\возможно диплом\Program\SPO_KP\obj\Debug\SPO_KP.Form1.resources
+F:\Desktop\возможно диплом\Program\SPO_KP\obj\Debug\SPO_KP.Properties.Resources.resources
+F:\Desktop\возможно диплом\Program\SPO_KP\obj\Debug\SPO_KP.csproj.GenerateResource.Cache
+C:\Users\sonik\Desktop\возможно диплом\Program\SPO_KP\bin\Debug\SPO_KP.exe.config
+C:\Users\sonik\Desktop\возможно диплом\Program\SPO_KP\obj\Debug\SPO_KP.exe
+C:\Users\sonik\Desktop\возможно диплом\Program\SPO_KP\obj\Debug\SPO_KP.pdb
+C:\Users\sonik\Desktop\возможно диплом\Program\SPO_KP\bin\Debug\SPO_KP.exe
+C:\Users\sonik\Desktop\возможно диплом\Program\SPO_KP\bin\Debug\SPO_KP.pdb
+C:\Users\sonik\Desktop\возможно диплом\Program\SPO_KP\obj\Debug\SPO_KP.csprojResolveAssemblyReference.cache
+C:\Users\sonik\Desktop\возможно диплом\Program\SPO_KP\obj\Debug\SPO_KP.Form1.resources
+C:\Users\sonik\Desktop\возможно диплом\Program\SPO_KP\obj\Debug\SPO_KP.Properties.Resources.resources
+C:\Users\sonik\Desktop\возможно диплом\Program\SPO_KP\obj\Debug\SPO_KP.csproj.GenerateResource.Cache

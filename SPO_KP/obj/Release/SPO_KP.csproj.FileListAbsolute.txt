@@ -1,0 +1,8 @@
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\bin\Release\SPO_KP.exe
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\bin\Release\SPO_KP.pdb
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\obj\Release\SPO_KP.csprojResolveAssemblyReference.cache
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\obj\Release\SPO_KP.Form1.resources
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\obj\Release\SPO_KP.Properties.Resources.resources
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\obj\Release\SPO_KP.csproj.GenerateResource.Cache
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\obj\Release\SPO_KP.exe
+C:\Users\IseeYouSuka\Desktop\Program\SPO_KP\obj\Release\SPO_KP.pdb
